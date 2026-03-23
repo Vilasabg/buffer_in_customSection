@@ -1,0 +1,4 @@
+Version 1.0
+- LCD display working
+- Custom section buffer added
+- Verified using MAP and objdump
