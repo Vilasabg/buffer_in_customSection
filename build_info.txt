@@ -1,6 +1,5 @@
 Project: LCD Custom Section
 Board: Arduino Uno
-Build Date: 23-03-2026
 Framework: Arduino (PlatformIO)
 
 Includes:
